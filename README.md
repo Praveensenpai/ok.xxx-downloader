@@ -9,7 +9,7 @@ Download from ok.XXX
 
 #### First install requirements
 
-```http
+```cmd
   pip install -r requirements.txt
 ```
 
